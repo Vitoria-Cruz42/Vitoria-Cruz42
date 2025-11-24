@@ -1,16 +1,27 @@
-## Hi there 👋
+##  ✨ Hello World, I'm Vitória! ✨
 
-<!--
-**Vitoria-Cruz42/Vitoria-Cruz42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub profile 🚀
 
-Here are some ideas to get you started:
+## 🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently studying Internet Informatics at IFES
+
+Student at Behring Academy and NES
+
+Multimedalist in national scientific Olympiads, especially in areas like mathematics, technology and problem-solving
+
+Frequently participate in interviews and initiatives encouraging girls in STEM
+
+Passionate about technology, innovation, AI, and programming
+
+## 💻 Technologies I'm Learning and Working With
+
+Languages: C, C++, Python, JavaScript, Java
+
+Web: HTML, CSS
+
+
+## 🚀 What You’ll Find Here
+
+Projects, exercises, experiments, and code from my learning journey.
+
